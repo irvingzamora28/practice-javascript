@@ -1,9 +1,10 @@
 import './App.css';
+import Flexbox from './sections/Flexbox';
 
 function App() {
   return (
     <div className="container">
-        Hello World
+        <Flexbox />
     </div>
   );
 }
